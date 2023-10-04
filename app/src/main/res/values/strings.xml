@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gonzalez Silva Luis Ignacio</string>
+    <string name="tvPregunta">¿Cuantos boletos desea adquirir?</string>
+    <string name="rbCDMX">Ciudad de Mexico</string>
+    <string name="rbQRO">Quéretaro</string>
+    <string name="rbTequis">Tequisquiapan</string>
+    <string name="tvCiudad">¿A que ciudad desea viajar?</string>
+    <string name="tvLunch">¿Desea adquirir lunch? (20 pesos por boleto)</string>
+    <string name="chkLunch">Adquirir</string>
+    <string name="btnCalcular">Calcular precio</string>
+
+</resources>
